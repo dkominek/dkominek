@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dkominek
+- 👀 I’m interested in game development.
+- 🌱 I’m currently learning about software architecture and development for the cloud.
+- 💞️ I’m looking to collaborate on game development and other personal projects.
+- 📫 Reach me via github.
